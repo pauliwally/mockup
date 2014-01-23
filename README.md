@@ -3,8 +3,7 @@ mockup: Rotten Tomatoes of Companies/Brands based on Treatment of Planet & Peopl
 
 User Stories and HTML Mockup Pages
 
-As a user, I want companies to treat the planet and people better.
-As a user, I want to create a user profile to store my activity and connect with other users.
+As a sensible human being, I want companies to treat the planet and people better.
 As a user, I want to vote down companies/brands that trash people or planet and vote up companies/brands that do the right thing.
 As an administrator, I want it to be easy and fast for users to look up and vote on companies.
 As a user, I want to indicate why I voted a certain way.
@@ -15,3 +14,4 @@ As a user, I want to discover companies/brands that disrespect my values in orde
 As a user, I want to discover companies/brands that treat people and planet well in order to become a more active customer and advocate of ethical companies.
 As an administrator, 
 As I user, I want to learn about good/bad companies/brands through other users' comments and votes.
+As a user, I want to create a user profile to store my activity and connect with other users.
